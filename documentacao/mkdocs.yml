@@ -1,0 +1,48 @@
+site_name: Hedy Lamar - Docs
+
+repo_name: "Hedy Lamar - Docs"
+repo_url: "https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01-HEDY-LAMAR"
+
+nav:
+  - Início: index.md
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  language: pt
+
+  font:
+    text: "Roboto"
+    code: "sans-serif"
+
+  palette:
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: yellow
+
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+      primary: yellow
+
+  logo: images/app_logo.png
+  favicon: images/app_logo.png
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  
