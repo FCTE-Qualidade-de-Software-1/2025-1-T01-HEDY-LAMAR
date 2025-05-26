@@ -31,15 +31,15 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: yellow
+      primary: green
 
     - scheme: default
       toggle:
         icon: material/toggle-switch
-      primary: yellow
+      primary: green
 
-  logo: images/app_logo.png
-  favicon: images/app_logo.png
+  logo: img/icon.jpg
+  favicon: img/icon.jpg
 
 
 markdown_extensions:
