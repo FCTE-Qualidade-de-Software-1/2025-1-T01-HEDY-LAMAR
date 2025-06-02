@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs
-          pip install mkdocs-material  # ou outro tema/plugin que você use
+          pip install mkdocs-material  
 
       - name: Deploy to GitHub Pages
         run: |
