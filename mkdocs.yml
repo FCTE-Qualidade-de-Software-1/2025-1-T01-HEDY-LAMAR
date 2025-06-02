@@ -1,19 +1,22 @@
-site_name: Hedy Lamar - Docs
+site_name: Hedy Lamarr
 
-repo_name: "Hedy Lamar - Docs"
+repo_name: "Hedy Lamarr"
 repo_url: "https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01-HEDY-LAMAR"
+
+site_description: Documentação do projeto do grupo Hedy Lamar de Qualidade de Software (2025.1), Turma 1
 
 nav:
   - Início: index.md
   - Fase 1: fase.md
-  - GQM: GQM.md
+  - GQM: 
+      - GQM: gqm/GQM.md
+      - Abstraction Sheets: gqm/abs.md
 
 theme:
   name: material
 
   features:
     - navigation.tabs
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight

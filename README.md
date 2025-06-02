@@ -2,7 +2,7 @@
 
 Este repositório reúne todos os artefatos desenvolvidos pelo Grupo Hedy Lamar durante o primeiro semestre de 2025, na disciplina de Qualidade de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
 
-# Hedy Lamar
+# Hedy Lamarr
 
 Nascida Hedwig Eva Maria Kiesler na Áustria, Lamarr, além de sua beleza e talento para a atuação, tinha uma mente inquisitiva e um interesse autodidata por ciência e tecnologia. Motivada a auxiliar o esforço dos Aliados durante a guerra, ela uniu forças com o compositor e inventor George Antheil. Juntos, desenvolveram um engenhoso sistema de "salto de frequência" (frequency hopping). A ideia central era permitir que torpedos guiados por rádio mudassem rapidamente de frequência de controle, tornando-os praticamente imunes à detecção e interferência inimiga.
 

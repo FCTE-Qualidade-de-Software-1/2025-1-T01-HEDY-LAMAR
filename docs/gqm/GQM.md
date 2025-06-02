@@ -1,41 +1,16 @@
-# Disciplina
-**FGA0315 – Qualidade de Software 1**  
-**Turma:** 2025-1 (T01 e T02)  
-**Profa.:** Cristiane Ramos  
-
-## Tema
-**Abordagens de Medição e Análise (GQM)**
-
----
-
-## Integrantes
-
-| Matrícula | Nome completo | Contribuição (%) |
-|-----------|---------------|------------------|
-| 221022462 | Arthur da Silveira Sousa | 16,6 |
-| 221022515 | Danilo Naves do Nascimento | 16,6 |
-| 180100271 | Emivalto da Costa Tavares Junior | 16,6 |
-| 200020323 | Jefferson Sena Oliveira | 16,6 |
-| 222014859 | Ian Costa Guimarães | 16,6 |
-| 211062016 | José André Rabelo Rocha | 16,6 |
-
----
-
-## GQM - Fase Definição
+# Fase de definição
 
 **Objetivo de negócio do AGROMART:**  
 
 - **Analisar**: AgroMart  
 - **Para o propósito de**: Avaliar os requisitos  
 - **Com respeito a**: Verificar o processo de elicitação e análise dos requisitos  
-- **Do ponto de vista dos**: Alunos de qualidade  
+- **Do ponto de vista dos**: Alunos da disciplina de qualidade de software 
 - **No contexto de**: Qualidade de software  
 
 ---
 
-## GQM
-
-### Priorização
+## Priorização
 
 **Goals:**  
 Avaliar a priorização dos requisitos funcionais utilizando a técnica MoSCoW, com o propósito de garantir uma seleção equilibrada e estratégica das funcionalidades.
@@ -53,9 +28,9 @@ Avaliar a priorização dos requisitos funcionais utilizando a técnica MoSCoW, 
 
 ---
 
-### Questões objetivo de medição 1
+## Objetivo de medição 1
 
-#### Q1: A classificação de prioridade do RF faz sentido considerando o valor que esse recurso oferece ao usuário?
+**Q1: A classificação de prioridade do RF faz sentido considerando o valor que esse recurso oferece ao usuário?**
 
 | Requisito | Descrição | Categoria |
 |-----------|----------|-----------|
@@ -68,7 +43,7 @@ A priorização atual dos requisitos RF6, RF8 e RNF10 (classificados como Could/
 
 ---
 
-#### Q2: A distribuição dos requisitos entre as categorias MoSCoW está balanceada?
+**Q2: A distribuição dos requisitos entre as categorias MoSCoW está balanceada?**
 
 **Hipótese Q2:** Porcentagem de requisitos por categoria (Must, Should, Could, Won't).
 
@@ -83,7 +58,7 @@ A priorização atual dos requisitos RF6, RF8 e RNF10 (classificados como Could/
 
 ---
 
-#### Q3: Os requisitos "Must" estão claramente justificados como essenciais para o funcionamento mínimo do sistema?
+**Q3: Os requisitos "Must" estão claramente justificados como essenciais para o funcionamento mínimo do sistema?**
 
 **Hipótese Q3:**  
 Número de "Must" com justificativa clara de negócio.
@@ -93,9 +68,9 @@ Não. Nenhum dos requisitos classificados como "Must" na documentação apresent
 
 ---
 
-### Questões objetivo de medição 2
+## Objetivo de medição 2
 
-#### Q1: As histórias de usuário demonstram uma abstração do requisito permitindo analisar como uma funcionalidade que permeia a utilização do produto pelo usuário?
+**Q1: As histórias de usuário demonstram uma abstração do requisito permitindo analisar como uma funcionalidade que permeia a utilização do produto pelo usuário?**
 
 **Histórias de Usuário - Administrador**
 
@@ -133,7 +108,7 @@ As histórias de usuário foram analisadas verificando a aderência aos critéri
 
 ---
 
-#### Q2: Os critérios de aceitação das histórias de usuário são claros, objetivos e testáveis garantindo métricas que sustentam a implementação e verificação?
+**Q2: Os critérios de aceitação das histórias de usuário são claros, objetivos e testáveis garantindo métricas que sustentam a implementação e verificação?**
 
 **Exemplos de critérios de aceitação:**
 
@@ -162,13 +137,21 @@ Os critérios de aceitação foram analisados com base nos princípios da técni
 
 ---
 
-#### Q3: As técnicas de validação utilizadas no projeto são suficientes sob a perspectiva dos processos da Engenharia de Requisitos?
+**Q3: As técnicas de validação utilizadas no projeto são suficientes sob a perspectiva dos processos da Engenharia de Requisitos?**
 
 **Hipótese 3:**  
 Atualmente, a única técnica de validação identificada na documentação é a validação informal, descrita na seção de validações. Essa abordagem, por si só, geralmente não é suficiente para garantir a qualidade dos requisitos. Recomenda-se a adoção de um checklist estruturado com critérios claros, que ajude a minimizar erros durante a validação dos itens. Observa-se que já existe um checklist voltado à verificação de histórias de usuário, porém este poderia ser aprimorado. Em vez de utilizar apenas os critérios "Os itens que representam maior valor para o negócio são bem priorizados?" e "As User Story foram elaboradas seguindo um modelo e/ou um padrão?", sugerimos a adoção do modelo INVEST (Independente, Negociável, Valioso, Estimável, Pequeno e Testável), o que proporcionaria uma avaliação mais criteriosa e alinhada às boas práticas da Engenharia de Requisitos.
 
 ---
 
-## Abstraction sheets
 
-> (Inserir nossos abstraction sheets)
+## Tabela de contribuição
+
+| Matrícula | Nome completo | Contribuição (%) |
+|-----------|---------------|------------------|
+| 221022462 | Arthur da Silveira Sousa | 16,6 |
+| 221022515 | Danilo Naves do Nascimento | 16,6 |
+| 180100271 | Emivalto da Costa Tavares Junior | 16,6 |
+| 200020323 | Jefferson Sena Oliveira | 16,6 |
+| 222014859 | Ian Costa Guimarães | 16,6 |
+| 211062016 | José André Rabelo Rocha | 16,6 |
