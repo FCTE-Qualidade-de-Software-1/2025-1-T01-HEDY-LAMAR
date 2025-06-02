@@ -5,6 +5,7 @@ repo_url: "https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01-HEDY-LAMAR
 
 nav:
   - Início: index.md
+  - Fase 1: fase.md
   - GQM: GQM.md
 
 theme:
