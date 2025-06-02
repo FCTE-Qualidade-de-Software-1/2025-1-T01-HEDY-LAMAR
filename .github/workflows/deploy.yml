@@ -1,9 +1,13 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy MkDocs 
 
 on:
   push:
     branches:
-      - main  # Gatilho: sempre que houver push na main
+      - main  
+
+permissions:
+  contents: write
+
 
 jobs:
   deploy:
