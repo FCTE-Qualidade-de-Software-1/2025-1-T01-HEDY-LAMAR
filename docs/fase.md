@@ -3,6 +3,8 @@
 ## Software Selecionado
 **Agromart - Lanna**
 
+---
+
 ## Propósito da Avaliação
 
 O Agromart é um software comercial, desenvolvido com o objetivo de gerar lucro por meio da sua comercialização. A avaliação de qualidade terá como foco:
@@ -17,6 +19,8 @@ O Agromart é um software comercial, desenvolvido com o objetivo de gerar lucro 
 - **Qualidade da Arquitetura**  
   Avaliar a adequação da arquitetura do sistema, considerando a evolução do Agromart de um aplicativo simples para uma plataforma web integrada, com meios de pagamento digitais e funcionalidades específicas para co-agricultores.
 
+---
+
 ## Conexão com os Objetivos de Desenvolvimento Sustentável (ODS)
 
 A proposta do Agromart está alinhada com os seguintes ODS da Agenda 2030:
@@ -30,6 +34,8 @@ A proposta do Agromart está alinhada com os seguintes ODS da Agenda 2030:
 - **ODS 12**: Consumo e produção responsáveis  
 - **ODS 15**: Vida terrestre  
 - **ODS 17**: Parcerias em prol das metas
+
+---
 
 ## Requisitos de Qualidade
 
@@ -58,6 +64,20 @@ A proposta do Agromart está alinhada com os seguintes ODS da Agenda 2030:
 
 - **Portabilidade (1)**  
   Avaliar a capacidade do sistema de operar em diferentes dispositivos e sistemas operacionais.
+
+---
+
+## Tabela de contribuição
+
+| Matrícula   | Nome completo                        | Contribuição (%) |
+|-------------|--------------------------------------|------------------|
+| 221022462   | [Arthur da Silveira Sousa](https://github.com/Tutzs)             | 16,6             |
+| 221022515   | [Danilo Naves do Nascimento](https://github.com/DaniloNavesS)          | 16,6             |
+| 180100271   | [Emivalto da Costa Tavares Junior](https://github.com/EmivaltoJrr)    | 16,6             |
+| 222014859   | [Ian Costa Guimarães](https://github.com/iancostag)                 | 16,6             |
+| 200020323   | [Jefferson Sena Oliveira](https://github.com/JeffersonSenaa)              | 16,6             |
+| 211062016   | [José André Rabelo Rocha](https://github.com/joseandre25)             | 16,6             |
+
 
 ---
 
