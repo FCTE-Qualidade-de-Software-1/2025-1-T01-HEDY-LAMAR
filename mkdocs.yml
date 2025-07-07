@@ -8,9 +8,11 @@ site_description: Documentação do projeto do grupo Hedy Lamar de Qualidade de 
 nav:
   - Início: index.md
   - Fase 1: fase.md
-  - GQM: 
+  - Fase 2: 
       - GQM: gqm/GQM.md
       - Abstraction Sheets: gqm/abs.md
+  - Fase 3: fase3.md
+  - Fase 4: fase4.md
 
 theme:
   name: material
