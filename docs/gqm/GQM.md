@@ -162,6 +162,8 @@ Observa-se que já existe um *checklist* voltado à verificação de histórias 
 
 ---
 
+![Gráfico](../img/grafico.jpeg)
+
 ## Tabela de contribuição
 
 | Matrícula   | Nome completo                          | Contribuição (%) |

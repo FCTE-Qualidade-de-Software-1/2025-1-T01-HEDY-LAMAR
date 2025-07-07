@@ -13,6 +13,7 @@ nav:
       - Abstraction Sheets: gqm/abs.md
   - Fase 3: fase3.md
   - Fase 4: fase4.md
+  - Parte 2: Parte2.md
 
 theme:
   name: material
