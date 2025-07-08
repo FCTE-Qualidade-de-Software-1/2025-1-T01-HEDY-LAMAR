@@ -286,11 +286,11 @@ Níveis de Pontuação:
 
 ## Tabela de contribuição
 
-| Matrícula   | Nome completo                          | Contribuição (%) |
+| Matrícula   | Nome completo                        | Contribuição (%) |
 |-------------|--------------------------------------|------------------|
-| 221022462   | [Arthur da Silveira Sousa](https://github.com/Tutzs)           | 16,6             |
-| 221022515   | [Danilo Naves do Nascimento](https://github.com/DaniloNavesS)  | 16,6             |
-| 180100271   | [Emivalto da Costa Tavares Junior](https://github.com/EmivaltoJrr) | 16,6         |
-| 222014859   | [Ian Costa Guimarães](https://github.com/iancostag)            | 16,6             |
-| 200020323   | [Jefferson Sena Oliveira](https://github.com/JeffersonSenaa)   | 16,6             |
-| 211062016   | [José André Rabelo Rocha](https://github.com/joseandre25)      | 16,6             |
+| 221022462   | [Arthur da Silveira Sousa](https://github.com/Tutzs)             | 20,0             |
+| 221022515   | [Danilo Naves do Nascimento](https://github.com/DaniloNavesS)          | 15,0             |
+| 180100271   | [Emivalto da Costa Tavares Junior](https://github.com/EmivaltoJrr)    | 15,0             |
+| 222014859   | [Ian Costa Guimarães](https://github.com/iancostag)                 | 20,0             |
+| 200020323   | [Jefferson Sena Oliveira](https://github.com/JeffersonSenaa)              | 15,0             |
+| 211062016   | [José André Rabelo Rocha](https://github.com/joseandre25)             | 15,0             |
