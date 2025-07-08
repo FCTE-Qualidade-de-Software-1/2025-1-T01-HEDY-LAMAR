@@ -78,7 +78,6 @@ A proposta do Agromart está alinhada com os seguintes ODS da Agenda 2030:
 | 200020323   | [Jefferson Sena Oliveira](https://github.com/JeffersonSenaa)              | 16,6             |
 | 211062016   | [José André Rabelo Rocha](https://github.com/joseandre25)             | 16,6             |
 
-
 ---
 
 ## Referência
