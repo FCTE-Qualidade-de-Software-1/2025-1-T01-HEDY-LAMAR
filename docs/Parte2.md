@@ -39,4 +39,15 @@ O projeto foi desenvolvido em ambiente acadêmico, sem custos financeiros direto
 
 ## 5.2.4 Conclusão
 
-Apesar da ausência de ferramentas formais de acompanhamento como issues e milestones, a equipe conseguiu mant
+Apesar da ausência de ferramentas formais de acompanhamento como issues e milestones, a equipe conseguiu manter um ritmo de trabalho adequado às demandas da disciplina, utilizando os commits como principal forma de registro das atividades. As evidências da execução do projeto estão documentadas no repositório Git da equipe.
+
+## Tabela de contribuição
+
+| Matrícula   | Nome completo                          | Contribuição (%) |
+|-------------|--------------------------------------|------------------|
+| 221022462   | [Arthur da Silveira Sousa](https://github.com/Tutzs)           | 16,6             |
+| 221022515   | [Danilo Naves do Nascimento](https://github.com/DaniloNavesS)  | 16,6             |
+| 180100271   | [Emivalto da Costa Tavares Junior](https://github.com/EmivaltoJrr) | 16,6         |
+| 222014859   | [Ian Costa Guimarães](https://github.com/iancostag)            | 16,6             |
+| 200020323   | [Jefferson Sena Oliveira](https://github.com/JeffersonSenaa)   | 16,6             |
+| 211062016   | [José André Rabelo Rocha](https://github.com/joseandre25)      | 16,6             |

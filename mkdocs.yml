@@ -9,7 +9,7 @@ nav:
   - Início: index.md
   - Fase 1: fase.md
   - Fase 2: 
-      - GQM: gqm/GQM.md
+      - GQM: gqm/fase2.md
       - Abstraction Sheets: gqm/abs.md
   - Fase 3: fase3.md
   - Fase 4: fase4.md
